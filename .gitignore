@@ -5,3 +5,7 @@
 /ExchangeRate/bin
 /ExchangeRate/obj
 /.vs/ExchangeRate
+/ExchangeRate.Dal/bin
+/ExchangeRate.Dal/obj
+/ExchangeRate.Services/bin
+/ExchangeRate.Services/obj
